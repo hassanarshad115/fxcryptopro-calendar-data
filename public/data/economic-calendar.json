@@ -1,7 +1,7 @@
 {
-  "updatedAt": 1786831958580,
+  "updatedAt": 1786832791086,
   "source": "live",
-  "count": 240,
+  "count": 242,
   "events": [
     {
       "id": "313349-2026-08-08T16:45:00.000Z-Fed-Governor-Bowman-Speech",
@@ -2199,6 +2199,20 @@
       "impact": "Low",
       "forecast": "12.9%",
       "previous": "-1.9%"
+    },
+    {
+      "id": "fed-2026-09-16-FOMC-Statement",
+      "title": "FOMC Statement",
+      "country": "USD",
+      "date": "2026-09-16T18:00:00.000Z",
+      "impact": "High"
+    },
+    {
+      "id": "fed-2026-09-16-FOMC-Press-Conference",
+      "title": "FOMC Press Conference",
+      "country": "USD",
+      "date": "2026-09-16T18:30:00.000Z",
+      "impact": "High"
     }
   ]
 }
