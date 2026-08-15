@@ -1,7 +1,7 @@
 {
-  "updatedAt": 1786829457543,
+  "updatedAt": 1786830762617,
   "source": "live",
-  "count": 236,
+  "count": 243,
   "events": [
     {
       "id": "313349-2026-08-08T16:45:00.000Z-Fed-Governor-Bowman-Speech",
@@ -113,6 +113,14 @@
       "actual": "2.752%"
     },
     {
+      "id": "ff-2026-08-10T13:45:00.000Z-Cleveland-Fed-Inflation-Expectations",
+      "title": "Cleveland Fed Inflation Expectations",
+      "country": "USD",
+      "date": "2026-08-10T13:45:00.000Z",
+      "impact": "Low",
+      "previous": "3.7%"
+    },
+    {
       "id": "280183-2026-08-10T14:00:00.000Z-CB-Employment-Trends-Index",
       "title": "CB Employment Trends Index",
       "country": "USD",
@@ -141,6 +149,13 @@
       "actual": "3.830%"
     },
     {
+      "id": "ff-2026-08-10T19:00:00.000Z-FOMC-Member-Hammack-Speaks",
+      "title": "FOMC Member Hammack Speaks",
+      "country": "USD",
+      "date": "2026-08-10T19:00:00.000Z",
+      "impact": "Medium"
+    },
+    {
       "id": "299955-2026-08-11T00:00:00.000Z-Mountain-Day",
       "title": "Mountain Day",
       "country": "JPY",
@@ -152,14 +167,14 @@
       "title": "RBA Monetary Policy Statement",
       "country": "AUD",
       "date": "2026-08-11T04:30:00.000Z",
-      "impact": "Medium"
+      "impact": "High"
     },
     {
       "id": "258523-2026-08-11T04:30:00.000Z-RBA-Rate-Statement",
       "title": "RBA Rate Statement",
       "country": "AUD",
       "date": "2026-08-11T04:30:00.000Z",
-      "impact": "Medium"
+      "impact": "High"
     },
     {
       "id": "258537-2026-08-11T04:30:00.000Z-RBA-Interest-Rate-Decision",
@@ -168,6 +183,13 @@
       "date": "2026-08-11T04:30:00.000Z",
       "impact": "High",
       "previous": "4.35%"
+    },
+    {
+      "id": "ff-2026-08-11T05:30:00.000Z-RBA-Press-Conference",
+      "title": "RBA Press Conference",
+      "country": "AUD",
+      "date": "2026-08-11T05:30:00.000Z",
+      "impact": "High"
     },
     {
       "id": "281491-2026-08-11T08:00:00.000Z-Trade-Balance",
@@ -670,6 +692,13 @@
       "actual": "7.2%"
     },
     {
+      "id": "ff-2026-08-13T00:15:00.000Z-RBA-Assist-Gov-Kent-Speaks",
+      "title": "RBA Assist Gov Kent Speaks",
+      "country": "AUD",
+      "date": "2026-08-13T00:15:00.000Z",
+      "impact": "Medium"
+    },
+    {
       "id": "302833-2026-08-13T03:00:00.000Z-RBNZ-2-Year-Inflation-Expectations",
       "title": "RBNZ 2-Year Inflation Expectations",
       "country": "NZD",
@@ -912,6 +941,13 @@
       "previous": "0.4%"
     },
     {
+      "id": "ff-2026-08-13T12:15:00.000Z-FOMC-Member-Hammack-Speaks",
+      "title": "FOMC Member Hammack Speaks",
+      "country": "USD",
+      "date": "2026-08-13T12:15:00.000Z",
+      "impact": "Medium"
+    },
+    {
       "id": "277442-2026-08-13T12:30:00.000Z-PPI-m/m",
       "title": "PPI m/m",
       "country": "USD",
@@ -982,6 +1018,13 @@
       "actual": "199.000 K"
     },
     {
+      "id": "ff-2026-08-13T12:40:00.000Z-FOMC-Member-Barkin-Speaks",
+      "title": "FOMC Member Barkin Speaks",
+      "country": "USD",
+      "date": "2026-08-13T12:40:00.000Z",
+      "impact": "Medium"
+    },
+    {
       "id": "306691-2026-08-13T14:30:00.000Z-EIA-Natural-Gas-Storage-Change",
       "title": "EIA Natural Gas Storage Change",
       "country": "USD",
@@ -1017,6 +1060,13 @@
       "impact": "High",
       "previous": "5.058%",
       "actual": "5.216%"
+    },
+    {
+      "id": "ff-2026-08-13T22:00:00.000Z-FOMC-Member-Goolsbee-Speaks",
+      "title": "FOMC Member Goolsbee Speaks",
+      "country": "USD",
+      "date": "2026-08-13T22:00:00.000Z",
+      "impact": "Medium"
     },
     {
       "id": "305430-2026-08-13T22:30:00.000Z-BusinessNZ-Manufacturing-Index",
