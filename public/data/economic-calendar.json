@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1786788030953,
+  "updatedAt": 1786788619562,
   "source": "live",
   "count": 236,
   "events": [
@@ -524,7 +524,7 @@
       "impact": "High",
       "forecast": "6.059 M",
       "previous": "2.479 M",
-      "actual": "17.423 M"
+      "actual": "+17.422 M"
     },
     {
       "id": "306449-2026-08-12T14:30:00.000Z-EIA-Cushing-Crude-Oil-Stocks-Change",
@@ -1996,7 +1996,8 @@
       "date": "2026-08-18T12:30:00.000Z",
       "impact": "Medium",
       "forecast": "1.365 M",
-      "previous": "1.427 M"
+      "previous": "1.427 M",
+      "actual": "1.427 M"
     },
     {
       "id": "270210-2026-08-18T12:30:00.000Z-Building-Permits",
@@ -2005,7 +2006,8 @@
       "date": "2026-08-18T12:30:00.000Z",
       "impact": "Medium",
       "forecast": "1.352 M",
-      "previous": "1.367 M"
+      "previous": "1.367 M",
+      "actual": "1.367 M"
     },
     {
       "id": "270342-2026-08-18T12:30:00.000Z-Housing-Starts-m/m",
@@ -2077,7 +2079,8 @@
       "date": "2026-08-18T13:15:00.000Z",
       "impact": "Medium",
       "forecast": "0.1%",
-      "previous": "0.1%"
+      "previous": "0.1%",
+      "actual": "0.1%"
     },
     {
       "id": "280479-2026-08-18T13:15:00.000Z-Fed-Capacity-Utilization-Rate",
@@ -2086,7 +2089,8 @@
       "date": "2026-08-18T13:15:00.000Z",
       "impact": "Low",
       "forecast": "76.1%",
-      "previous": "76.1%"
+      "previous": "76.1%",
+      "actual": "76.1%"
     },
     {
       "id": "280503-2026-08-18T13:15:00.000Z-Fed-Manufacturing-Production-m/m",
