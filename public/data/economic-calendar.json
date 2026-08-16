@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1786912902778,
+  "updatedAt": 1786913993209,
   "source": "live",
   "count": 240,
   "events": [
@@ -1653,13 +1653,6 @@
       "previous": "0.3%"
     },
     {
-      "id": "ff-2026-08-17T02:00:00.000Z-NBS-Press-Conference",
-      "title": "NBS Press Conference",
-      "country": "CNY",
-      "date": "2026-08-17T02:00:00.000Z",
-      "impact": "Low"
-    },
-    {
       "id": "293278-2026-08-17T04:30:00.000Z-Tertiary-Industry-Activity-Index-m/m",
       "title": "Tertiary Industry Activity Index m/m",
       "country": "JPY",
@@ -1694,6 +1687,13 @@
       "impact": "Low",
       "forecast": "-0.9%",
       "previous": "0.1%"
+    },
+    {
+      "id": "ff-2026-08-17T07:00:00.000Z-NBS-Press-Conference",
+      "title": "NBS Press Conference",
+      "country": "CNY",
+      "date": "2026-08-17T07:00:00.000Z",
+      "impact": "Low"
     },
     {
       "id": "315320-2026-08-17T09:30:00.000Z-ECB-Executive-Board-Member-Lane-Speech",
