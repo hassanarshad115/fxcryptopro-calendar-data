@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1786923727230,
+  "updatedAt": 1786924689119,
   "source": "live",
   "count": 243,
   "events": [
@@ -1609,7 +1609,8 @@
       "date": "2026-08-16T23:50:00.000Z",
       "impact": "High",
       "forecast": "0.1%",
-      "previous": "0.5%"
+      "previous": "0.5%",
+      "actual": "0.3%"
     },
     {
       "id": "288959-2026-08-16T23:50:00.000Z-GDP-Price-Index-y/y",
@@ -1618,7 +1619,8 @@
       "date": "2026-08-16T23:50:00.000Z",
       "impact": "Medium",
       "forecast": "3.2%",
-      "previous": "3.2%"
+      "previous": "3.2%",
+      "actual": "2.6%"
     },
     {
       "id": "288967-2026-08-16T23:50:00.000Z-GDP-y/y",
@@ -1627,7 +1629,8 @@
       "date": "2026-08-16T23:50:00.000Z",
       "impact": "Medium",
       "forecast": "0.5%",
-      "previous": "1.8%"
+      "previous": "1.9%",
+      "actual": "1.1%"
     },
     {
       "id": "288975-2026-08-16T23:50:00.000Z-Private-Non-Residential-Investment-q/q",
@@ -1636,7 +1639,8 @@
       "date": "2026-08-16T23:50:00.000Z",
       "impact": "Low",
       "forecast": "-0.2%",
-      "previous": "-0.7%"
+      "previous": "-1.0%",
+      "actual": "-1.2%"
     },
     {
       "id": "288983-2026-08-16T23:50:00.000Z-Private-Consumption-q/q",
@@ -1645,7 +1649,8 @@
       "date": "2026-08-16T23:50:00.000Z",
       "impact": "Low",
       "forecast": "-0.2%",
-      "previous": "0.3%"
+      "previous": "0.5%",
+      "actual": "0.0%"
     },
     {
       "id": "288991-2026-08-16T23:50:00.000Z-Net-Exports-Contribution-to-GDP-q/q",
@@ -1654,7 +1659,8 @@
       "date": "2026-08-16T23:50:00.000Z",
       "impact": "Medium",
       "forecast": "0.4%",
-      "previous": "0.3%"
+      "previous": "0.3%",
+      "actual": "0.5%"
     },
     {
       "id": "293278-2026-08-17T04:30:00.000Z-Tertiary-Industry-Activity-Index-m/m",
