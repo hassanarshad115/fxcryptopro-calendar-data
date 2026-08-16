@@ -1,7 +1,7 @@
 {
-  "updatedAt": 1786917493757,
+  "updatedAt": 1786918800008,
   "source": "live",
-  "count": 240,
+  "count": 243,
   "events": [
     {
       "id": "313349-2026-08-08T16:45:00.000Z-Fed-Governor-Bowman-Speech",
@@ -1903,7 +1903,52 @@
       "previous": "55.8%"
     },
     {
-      "id": "315488-2026-08-18T08:30:00.000Z-Labour-Productivity-q/q",
+      "id": "315518-2026-08-18T06:00:00.000Z-Average-Weekly-Earnings,-Regular-Pay-y/y",
+      "title": "Average Weekly Earnings, Regular Pay y/y",
+      "country": "GBP",
+      "date": "2026-08-18T06:00:00.000Z",
+      "impact": "Low",
+      "forecast": "3.5%",
+      "previous": "3.4%"
+    },
+    {
+      "id": "315519-2026-08-18T06:00:00.000Z-Average-Weekly-Earnings,-Total-Pay-y/y",
+      "title": "Average Weekly Earnings, Total Pay y/y",
+      "country": "GBP",
+      "date": "2026-08-18T06:00:00.000Z",
+      "impact": "Medium",
+      "forecast": "4.5%",
+      "previous": "4.3%"
+    },
+    {
+      "id": "315520-2026-08-18T06:00:00.000Z-Unemployment-Rate",
+      "title": "Unemployment Rate",
+      "country": "GBP",
+      "date": "2026-08-18T06:00:00.000Z",
+      "impact": "Medium",
+      "forecast": "4.8%",
+      "previous": "4.9%"
+    },
+    {
+      "id": "315521-2026-08-18T06:00:00.000Z-Claimant-Count-Change",
+      "title": "Claimant Count Change",
+      "country": "GBP",
+      "date": "2026-08-18T06:00:00.000Z",
+      "impact": "Medium",
+      "forecast": "15.8 K",
+      "previous": "6.7 K"
+    },
+    {
+      "id": "315578-2026-08-18T06:00:00.000Z-Employment-Change-3-months",
+      "title": "Employment Change 3-months",
+      "country": "GBP",
+      "date": "2026-08-18T06:00:00.000Z",
+      "impact": "Medium",
+      "forecast": "82 K",
+      "previous": "147 K"
+    },
+    {
+      "id": "315579-2026-08-18T08:30:00.000Z-Labour-Productivity-q/q",
       "title": "Labour Productivity q/q",
       "country": "GBP",
       "date": "2026-08-18T08:30:00.000Z",
@@ -1911,26 +1956,12 @@
       "previous": "0.9%"
     },
     {
-      "id": "315489-2026-08-18T08:30:00.000Z-Labour-Productivity-q/q",
-      "title": "Labour Productivity q/q",
-      "country": "GBP",
-      "date": "2026-08-18T08:30:00.000Z",
-      "impact": "Medium"
-    },
-    {
-      "id": "315490-2026-08-18T08:30:00.000Z-Labour-Productivity-y/y",
+      "id": "315580-2026-08-18T08:30:00.000Z-Labour-Productivity-y/y",
       "title": "Labour Productivity y/y",
       "country": "GBP",
       "date": "2026-08-18T08:30:00.000Z",
       "impact": "Medium",
       "previous": "0.4%"
-    },
-    {
-      "id": "315491-2026-08-18T08:30:00.000Z-Labour-Productivity-y/y",
-      "title": "Labour Productivity y/y",
-      "country": "GBP",
-      "date": "2026-08-18T08:30:00.000Z",
-      "impact": "Medium"
     },
     {
       "id": "309670-2026-08-18T09:30:00.000Z-10-Year-Treasury-Gilt-Auction",
