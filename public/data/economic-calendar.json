@@ -1,7 +1,7 @@
 {
-  "updatedAt": 1786852902457,
+  "updatedAt": 1786855583970,
   "source": "live",
-  "count": 242,
+  "count": 240,
   "events": [
     {
       "id": "313349-2026-08-08T16:45:00.000Z-Fed-Governor-Bowman-Speech",
@@ -113,14 +113,6 @@
       "actual": "2.752%"
     },
     {
-      "id": "ff-2026-08-10T13:45:00.000Z-Cleveland-Fed-Inflation-Expectations",
-      "title": "Cleveland Fed Inflation Expectations",
-      "country": "USD",
-      "date": "2026-08-10T13:45:00.000Z",
-      "impact": "Low",
-      "previous": "3.7%"
-    },
-    {
       "id": "280183-2026-08-10T14:00:00.000Z-CB-Employment-Trends-Index",
       "title": "CB Employment Trends Index",
       "country": "USD",
@@ -147,13 +139,6 @@
       "impact": "Low",
       "previous": "3.855%",
       "actual": "3.830%"
-    },
-    {
-      "id": "ff-2026-08-10T19:00:00.000Z-FOMC-Member-Hammack-Speaks",
-      "title": "FOMC Member Hammack Speaks",
-      "country": "USD",
-      "date": "2026-08-10T19:00:00.000Z",
-      "impact": "Medium"
     },
     {
       "id": "299955-2026-08-11T00:00:00.000Z-Mountain-Day",
@@ -183,13 +168,6 @@
       "date": "2026-08-11T04:30:00.000Z",
       "impact": "High",
       "previous": "4.35%"
-    },
-    {
-      "id": "ff-2026-08-11T05:30:00.000Z-RBA-Press-Conference",
-      "title": "RBA Press Conference",
-      "country": "AUD",
-      "date": "2026-08-11T05:30:00.000Z",
-      "impact": "High"
     },
     {
       "id": "281491-2026-08-11T08:00:00.000Z-Trade-Balance",
@@ -692,13 +670,6 @@
       "actual": "7.2%"
     },
     {
-      "id": "ff-2026-08-13T00:15:00.000Z-RBA-Assist-Gov-Kent-Speaks",
-      "title": "RBA Assist Gov Kent Speaks",
-      "country": "AUD",
-      "date": "2026-08-13T00:15:00.000Z",
-      "impact": "Medium"
-    },
-    {
       "id": "302833-2026-08-13T03:00:00.000Z-RBNZ-2-Year-Inflation-Expectations",
       "title": "RBNZ 2-Year Inflation Expectations",
       "country": "NZD",
@@ -941,13 +912,6 @@
       "previous": "0.4%"
     },
     {
-      "id": "ff-2026-08-13T12:15:00.000Z-FOMC-Member-Hammack-Speaks",
-      "title": "FOMC Member Hammack Speaks",
-      "country": "USD",
-      "date": "2026-08-13T12:15:00.000Z",
-      "impact": "Medium"
-    },
-    {
       "id": "277442-2026-08-13T12:30:00.000Z-PPI-m/m",
       "title": "PPI m/m",
       "country": "USD",
@@ -1018,13 +982,6 @@
       "actual": "199.000 K"
     },
     {
-      "id": "ff-2026-08-13T12:40:00.000Z-FOMC-Member-Barkin-Speaks",
-      "title": "FOMC Member Barkin Speaks",
-      "country": "USD",
-      "date": "2026-08-13T12:40:00.000Z",
-      "impact": "Medium"
-    },
-    {
       "id": "306691-2026-08-13T14:30:00.000Z-EIA-Natural-Gas-Storage-Change",
       "title": "EIA Natural Gas Storage Change",
       "country": "USD",
@@ -1060,13 +1017,6 @@
       "impact": "High",
       "previous": "5.058%",
       "actual": "5.216%"
-    },
-    {
-      "id": "ff-2026-08-13T22:00:00.000Z-FOMC-Member-Goolsbee-Speaks",
-      "title": "FOMC Member Goolsbee Speaks",
-      "country": "USD",
-      "date": "2026-08-13T22:00:00.000Z",
-      "impact": "Medium"
     },
     {
       "id": "305430-2026-08-13T22:30:00.000Z-BusinessNZ-Manufacturing-Index",
@@ -1703,6 +1653,13 @@
       "previous": "0.3%"
     },
     {
+      "id": "ff-2026-08-17T02:00:00.000Z-NBS-Press-Conference",
+      "title": "NBS Press Conference",
+      "country": "CNY",
+      "date": "2026-08-17T02:00:00.000Z",
+      "impact": "Low"
+    },
+    {
       "id": "293278-2026-08-17T04:30:00.000Z-Tertiary-Industry-Activity-Index-m/m",
       "title": "Tertiary Industry Activity Index m/m",
       "country": "JPY",
@@ -2199,6 +2156,36 @@
       "impact": "Low",
       "forecast": "12.9%",
       "previous": "-1.9%"
+    },
+    {
+      "id": "ff-2026-08-19T02:45:00.000Z-RBA-Deputy-Gov-Hauser-Speaks",
+      "title": "RBA Deputy Gov Hauser Speaks",
+      "country": "AUD",
+      "date": "2026-08-19T02:45:00.000Z",
+      "impact": "Medium"
+    },
+    {
+      "id": "ff-2026-08-19T07:10:00.000Z-ECB-President-Lagarde-Speaks",
+      "title": "ECB President Lagarde Speaks",
+      "country": "EUR",
+      "date": "2026-08-19T07:10:00.000Z",
+      "impact": "Medium"
+    },
+    {
+      "id": "ff-2026-08-19T18:00:00.000Z-FOMC-Meeting-Minutes",
+      "title": "FOMC Meeting Minutes",
+      "country": "USD",
+      "date": "2026-08-19T18:00:00.000Z",
+      "impact": "High"
+    },
+    {
+      "id": "ff-2026-08-20T12:30:00.000Z-Philly-Fed-Manufacturing-Index",
+      "title": "Philly Fed Manufacturing Index",
+      "country": "USD",
+      "date": "2026-08-20T12:30:00.000Z",
+      "impact": "Medium",
+      "forecast": "24.3",
+      "previous": "41.4"
     },
     {
       "id": "fed-2026-09-16-FOMC-Statement",
