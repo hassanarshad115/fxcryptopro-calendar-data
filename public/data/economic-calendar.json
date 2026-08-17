@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1786979116481,
+  "updatedAt": 1786980943450,
   "source": "live",
   "count": 230,
   "events": [
@@ -318,7 +318,8 @@
       "country": "USD",
       "date": "2026-08-17T15:30:00.000Z",
       "impact": "Low",
-      "previous": "3.735%"
+      "previous": "3.735%",
+      "actual": "3.715%"
     },
     {
       "id": "301545-2026-08-17T15:30:00.000Z-6-Month-Bill-Auction",
@@ -326,7 +327,8 @@
       "country": "USD",
       "date": "2026-08-17T15:30:00.000Z",
       "impact": "Low",
-      "previous": "3.830%"
+      "previous": "3.830%",
+      "actual": "3.780%"
     },
     {
       "id": "276708-2026-08-17T20:00:00.000Z-TIC-Net-Long-Term-Transactions",
@@ -1759,14 +1761,16 @@
       "title": "3-Month Bill Auction",
       "country": "USD",
       "date": "2026-08-24T15:30:00.000Z",
-      "impact": "Low"
+      "impact": "Low",
+      "previous": "3.715%"
     },
     {
       "id": "301546-2026-08-24T15:30:00.000Z-6-Month-Bill-Auction",
       "title": "6-Month Bill Auction",
       "country": "USD",
       "date": "2026-08-24T15:30:00.000Z",
-      "impact": "Low"
+      "impact": "Low",
+      "previous": "3.780%"
     },
     {
       "id": "304590-2026-08-25T05:00:00.000Z-Coincident-Index",
