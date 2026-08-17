@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1786996391311,
+  "updatedAt": 1786997846993,
   "source": "live",
   "count": 230,
   "events": [
@@ -337,7 +337,8 @@
       "date": "2026-08-17T20:00:00.000Z",
       "impact": "Medium",
       "forecast": "$90.5 B",
-      "previous": "$232.7 B"
+      "previous": "$231.2 B",
+      "actual": "$172.7 B"
     },
     {
       "id": "276720-2026-08-17T20:00:00.000Z-TIC-Net-Long-Term-Transactions-incl.-Swaps",
@@ -346,7 +347,8 @@
       "date": "2026-08-17T20:00:00.000Z",
       "impact": "Low",
       "forecast": "$79.7 B",
-      "previous": "$232.7 B"
+      "previous": "$231.2 B",
+      "actual": "$172.7 B"
     },
     {
       "id": "276732-2026-08-17T20:00:00.000Z-TIC-Overall-Net-Capital-Flow",
@@ -355,7 +357,8 @@
       "date": "2026-08-17T20:00:00.000Z",
       "impact": "Low",
       "forecast": "$67.8 B",
-      "previous": "$132.2 B"
+      "previous": "$131.5 B",
+      "actual": "$133.5 B"
     },
     {
       "id": "276744-2026-08-17T20:00:00.000Z-TIC-Net-Foreign-Purchases-of-Domestic-Treasury-Bonds-&-Notes",
@@ -364,7 +367,8 @@
       "date": "2026-08-17T20:00:00.000Z",
       "impact": "Low",
       "forecast": "$29.4 B",
-      "previous": "$56.6 B"
+      "previous": "$56.6 B",
+      "actual": "$6.8 B"
     },
     {
       "id": "309668-2026-08-17T22:00:00.000Z-Trade-Balance",
