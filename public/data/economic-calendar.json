@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1786968094391,
+  "updatedAt": 1786971760465,
   "source": "live",
   "count": 230,
   "events": [
@@ -184,7 +184,8 @@
       "date": "2026-08-17T12:30:00.000Z",
       "impact": "Medium",
       "forecast": "0.0%",
-      "previous": "-0.4%"
+      "previous": "-0.4%",
+      "actual": "0.5%"
     },
     {
       "id": "277994-2026-08-17T12:30:00.000Z-CPI-y/y",
@@ -193,7 +194,8 @@
       "date": "2026-08-17T12:30:00.000Z",
       "impact": "Low",
       "forecast": "2.7%",
-      "previous": "2.8%"
+      "previous": "2.8%",
+      "actual": "3.0%"
     },
     {
       "id": "278006-2026-08-17T12:30:00.000Z-Core-CPI-m/m",
@@ -202,7 +204,8 @@
       "date": "2026-08-17T12:30:00.000Z",
       "impact": "Medium",
       "forecast": "0.0%",
-      "previous": "0.1%"
+      "previous": "0.1%",
+      "actual": "0.2%"
     },
     {
       "id": "278018-2026-08-17T12:30:00.000Z-Core-CPI-y/y",
@@ -211,7 +214,8 @@
       "date": "2026-08-17T12:30:00.000Z",
       "impact": "Medium",
       "forecast": "2.1%",
-      "previous": "2.1%"
+      "previous": "2.1%",
+      "actual": "2.3%"
     },
     {
       "id": "278164-2026-08-17T12:30:00.000Z-Foreign-Securities-Purchases",
@@ -219,7 +223,8 @@
       "country": "CAD",
       "date": "2026-08-17T12:30:00.000Z",
       "impact": "Medium",
-      "previous": "$7.897 B"
+      "previous": "$8.799 B",
+      "actual": "$40.828 B"
     },
     {
       "id": "278176-2026-08-17T12:30:00.000Z-Foreign-Securities-Purchases-by-Canadians",
@@ -227,7 +232,8 @@
       "country": "CAD",
       "date": "2026-08-17T12:30:00.000Z",
       "impact": "Low",
-      "previous": "$22.265 B"
+      "previous": "$21.890 B",
+      "actual": "$35.432 B"
     },
     {
       "id": "278273-2026-08-17T12:30:00.000Z-Common-CPI-y/y",
@@ -236,7 +242,8 @@
       "date": "2026-08-17T12:30:00.000Z",
       "impact": "Low",
       "forecast": "2.4%",
-      "previous": "2.6%"
+      "previous": "2.6%",
+      "actual": "2.7%"
     },
     {
       "id": "278285-2026-08-17T12:30:00.000Z-Median-CPI-y/y",
@@ -245,7 +252,8 @@
       "date": "2026-08-17T12:30:00.000Z",
       "impact": "Low",
       "forecast": "1.9%",
-      "previous": "1.9%"
+      "previous": "1.9%",
+      "actual": "2.0%"
     },
     {
       "id": "278297-2026-08-17T12:30:00.000Z-Trimmed-CPI-y/y",
@@ -254,7 +262,8 @@
       "date": "2026-08-17T12:30:00.000Z",
       "impact": "Low",
       "forecast": "1.8%",
-      "previous": "1.8%"
+      "previous": "1.9%",
+      "actual": "1.9%"
     },
     {
       "id": "312898-2026-08-17T12:30:00.000Z-NY-Fed-Empire-State-Manufacturing-Index",
@@ -263,31 +272,35 @@
       "date": "2026-08-17T12:30:00.000Z",
       "impact": "Medium",
       "forecast": "8.4",
-      "previous": "15.6"
+      "previous": "15.6",
+      "actual": "20.6"
     },
     {
-      "id": "309610-2026-08-17T12:50:00.000Z-3-Month-BTF-Auction",
+      "id": "309610-2026-08-17T12:56:00.000Z-3-Month-BTF-Auction",
       "title": "3-Month BTF Auction",
       "country": "EUR",
-      "date": "2026-08-17T12:50:00.000Z",
+      "date": "2026-08-17T12:56:00.000Z",
       "impact": "Low",
-      "previous": "2.448%"
+      "previous": "2.448%",
+      "actual": "2.484%"
     },
     {
-      "id": "309615-2026-08-17T12:50:00.000Z-6-Month-BTF-Auction",
+      "id": "309615-2026-08-17T12:56:00.000Z-6-Month-BTF-Auction",
       "title": "6-Month BTF Auction",
       "country": "EUR",
-      "date": "2026-08-17T12:50:00.000Z",
+      "date": "2026-08-17T12:56:00.000Z",
       "impact": "Low",
-      "previous": "2.579%"
+      "previous": "2.579%",
+      "actual": "2.608%"
     },
     {
-      "id": "309620-2026-08-17T12:50:00.000Z-12-Month-BTF-Auction",
+      "id": "309620-2026-08-17T12:56:00.000Z-12-Month-BTF-Auction",
       "title": "12-Month BTF Auction",
       "country": "EUR",
-      "date": "2026-08-17T12:50:00.000Z",
+      "date": "2026-08-17T12:56:00.000Z",
       "impact": "Low",
-      "previous": "2.752%"
+      "previous": "2.752%",
+      "actual": "2.781%"
     },
     {
       "id": "290608-2026-08-17T14:00:00.000Z-NAHB-Housing-Market-Index",
@@ -1721,21 +1734,24 @@
       "title": "3-Month BTF Auction",
       "country": "EUR",
       "date": "2026-08-24T12:50:00.000Z",
-      "impact": "Low"
+      "impact": "Low",
+      "previous": "2.484%"
     },
     {
       "id": "309616-2026-08-24T12:50:00.000Z-6-Month-BTF-Auction",
       "title": "6-Month BTF Auction",
       "country": "EUR",
       "date": "2026-08-24T12:50:00.000Z",
-      "impact": "Low"
+      "impact": "Low",
+      "previous": "2.608%"
     },
     {
       "id": "309621-2026-08-24T12:50:00.000Z-12-Month-BTF-Auction",
       "title": "12-Month BTF Auction",
       "country": "EUR",
       "date": "2026-08-24T12:50:00.000Z",
-      "impact": "Low"
+      "impact": "Low",
+      "previous": "2.781%"
     },
     {
       "id": "301533-2026-08-24T15:30:00.000Z-3-Month-Bill-Auction",
