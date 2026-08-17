@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1786963796650,
+  "updatedAt": 1786965096915,
   "source": "live",
   "count": 230,
   "events": [
@@ -176,15 +176,6 @@
       "country": "EUR",
       "date": "2026-08-17T09:30:00.000Z",
       "impact": "Medium"
-    },
-    {
-      "id": "315316-2026-08-17T10:30:00.000Z-Consumer-Confidence",
-      "title": "Consumer Confidence",
-      "country": "EUR",
-      "date": "2026-08-17T10:30:00.000Z",
-      "impact": "Low",
-      "forecast": "77.4",
-      "previous": "81.2"
     },
     {
       "id": "277982-2026-08-17T12:30:00.000Z-CPI-m/m",
@@ -445,6 +436,15 @@
       "date": "2026-08-18T09:30:00.000Z",
       "impact": "Low",
       "previous": "5.040%"
+    },
+    {
+      "id": "315599-2026-08-18T10:30:00.000Z-Consumer-Confidence",
+      "title": "Consumer Confidence",
+      "country": "EUR",
+      "date": "2026-08-18T10:30:00.000Z",
+      "impact": "Low",
+      "forecast": "77.4",
+      "previous": "81.2"
     },
     {
       "id": "311153-2026-08-18T11:30:00.000Z-Westpac-MI-Consumer-Sentiment-m/m",
