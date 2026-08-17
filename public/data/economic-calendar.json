@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1787007725886,
+  "updatedAt": 1787009560667,
   "source": "live",
   "count": 248,
   "events": [
@@ -30,8 +30,7 @@
       "country": "NZD",
       "date": "2026-08-16T22:30:00.000Z",
       "impact": "Low",
-      "previous": "50.9",
-      "actual": "50.6"
+      "previous": "50.9"
     },
     {
       "id": "309547-2026-08-16T22:45:00.000Z-Electronic-Card-Retail-Sales-m/m",
@@ -40,8 +39,7 @@
       "date": "2026-08-16T22:45:00.000Z",
       "impact": "Medium",
       "forecast": "-0.3%",
-      "previous": "-1.3%",
-      "actual": "1.3%"
+      "previous": "-1.3%"
     },
     {
       "id": "309548-2026-08-16T22:45:00.000Z-Electronic-Card-Retail-Sales-y/y",
@@ -50,8 +48,7 @@
       "date": "2026-08-16T22:45:00.000Z",
       "impact": "Low",
       "forecast": "1.5%",
-      "previous": "1.3%",
-      "actual": "3.4%"
+      "previous": "1.3%"
     },
     {
       "id": "309549-2026-08-16T22:45:00.000Z-Food-Price-Index-m/m",
@@ -60,8 +57,7 @@
       "date": "2026-08-16T22:45:00.000Z",
       "impact": "Low",
       "forecast": "0.6%",
-      "previous": "0.6%",
-      "actual": "0.1%"
+      "previous": "0.6%"
     },
     {
       "id": "288951-2026-08-16T23:50:00.000Z-GDP-q/q",
@@ -70,8 +66,7 @@
       "date": "2026-08-16T23:50:00.000Z",
       "impact": "High",
       "forecast": "0.1%",
-      "previous": "0.5%",
-      "actual": "0.3%"
+      "previous": "0.5%"
     },
     {
       "id": "288959-2026-08-16T23:50:00.000Z-GDP-Price-Index-y/y",
@@ -80,8 +75,7 @@
       "date": "2026-08-16T23:50:00.000Z",
       "impact": "Medium",
       "forecast": "3.2%",
-      "previous": "3.2%",
-      "actual": "2.6%"
+      "previous": "3.2%"
     },
     {
       "id": "288967-2026-08-16T23:50:00.000Z-GDP-y/y",
@@ -90,8 +84,7 @@
       "date": "2026-08-16T23:50:00.000Z",
       "impact": "Medium",
       "forecast": "0.5%",
-      "previous": "1.9%",
-      "actual": "1.1%"
+      "previous": "1.9%"
     },
     {
       "id": "288975-2026-08-16T23:50:00.000Z-Private-Non-Residential-Investment-q/q",
@@ -100,8 +93,7 @@
       "date": "2026-08-16T23:50:00.000Z",
       "impact": "Low",
       "forecast": "-0.2%",
-      "previous": "-1.0%",
-      "actual": "-1.2%"
+      "previous": "-1.0%"
     },
     {
       "id": "288983-2026-08-16T23:50:00.000Z-Private-Consumption-q/q",
@@ -110,8 +102,7 @@
       "date": "2026-08-16T23:50:00.000Z",
       "impact": "Low",
       "forecast": "-0.2%",
-      "previous": "0.5%",
-      "actual": "0.0%"
+      "previous": "0.5%"
     },
     {
       "id": "288991-2026-08-16T23:50:00.000Z-Net-Exports-Contribution-to-GDP-q/q",
@@ -120,8 +111,7 @@
       "date": "2026-08-16T23:50:00.000Z",
       "impact": "Medium",
       "forecast": "0.4%",
-      "previous": "0.3%",
-      "actual": "0.5%"
+      "previous": "0.3%"
     },
     {
       "id": "293278-2026-08-17T04:30:00.000Z-Tertiary-Industry-Activity-Index-m/m",
@@ -130,8 +120,7 @@
       "date": "2026-08-17T04:30:00.000Z",
       "impact": "Medium",
       "forecast": "0.6%",
-      "previous": "1.1%",
-      "actual": "-0.2%"
+      "previous": "1.1%"
     },
     {
       "id": "289145-2026-08-17T04:30:00.000Z-Industrial-Production-m/m",
@@ -140,8 +129,7 @@
       "date": "2026-08-17T04:30:00.000Z",
       "impact": "Medium",
       "forecast": "1.3%",
-      "previous": "1.3%",
-      "actual": "1.9%"
+      "previous": "1.3%"
     },
     {
       "id": "289169-2026-08-17T04:30:00.000Z-Industrial-Production-y/y",
@@ -150,8 +138,7 @@
       "date": "2026-08-17T04:30:00.000Z",
       "impact": "Low",
       "forecast": "4.2%",
-      "previous": "4.2%",
-      "actual": "4.9%"
+      "previous": "4.2%"
     },
     {
       "id": "289189-2026-08-17T04:30:00.000Z-Capacity-Utilization-Rate",
@@ -160,8 +147,7 @@
       "date": "2026-08-17T04:30:00.000Z",
       "impact": "Low",
       "forecast": "-0.9%",
-      "previous": "0.1%",
-      "actual": "4.1%"
+      "previous": "0.1%"
     },
     {
       "id": "ff-2026-08-17T07:00:00.000Z-NBS-Press-Conference",
@@ -184,8 +170,7 @@
       "date": "2026-08-17T12:30:00.000Z",
       "impact": "Medium",
       "forecast": "0.0%",
-      "previous": "-0.4%",
-      "actual": "0.5%"
+      "previous": "-0.4%"
     },
     {
       "id": "277994-2026-08-17T12:30:00.000Z-CPI-y/y",
@@ -194,8 +179,7 @@
       "date": "2026-08-17T12:30:00.000Z",
       "impact": "Low",
       "forecast": "2.7%",
-      "previous": "2.8%",
-      "actual": "3.0%"
+      "previous": "2.8%"
     },
     {
       "id": "278006-2026-08-17T12:30:00.000Z-Core-CPI-m/m",
@@ -204,8 +188,7 @@
       "date": "2026-08-17T12:30:00.000Z",
       "impact": "Medium",
       "forecast": "0.0%",
-      "previous": "0.1%",
-      "actual": "0.2%"
+      "previous": "0.1%"
     },
     {
       "id": "278018-2026-08-17T12:30:00.000Z-Core-CPI-y/y",
@@ -214,8 +197,7 @@
       "date": "2026-08-17T12:30:00.000Z",
       "impact": "Medium",
       "forecast": "2.1%",
-      "previous": "2.1%",
-      "actual": "2.3%"
+      "previous": "2.1%"
     },
     {
       "id": "278164-2026-08-17T12:30:00.000Z-Foreign-Securities-Purchases",
@@ -223,8 +205,7 @@
       "country": "CAD",
       "date": "2026-08-17T12:30:00.000Z",
       "impact": "Medium",
-      "previous": "$8.799 B",
-      "actual": "$40.828 B"
+      "previous": "$8.799 B"
     },
     {
       "id": "278176-2026-08-17T12:30:00.000Z-Foreign-Securities-Purchases-by-Canadians",
@@ -232,8 +213,7 @@
       "country": "CAD",
       "date": "2026-08-17T12:30:00.000Z",
       "impact": "Low",
-      "previous": "$21.890 B",
-      "actual": "$35.432 B"
+      "previous": "$21.890 B"
     },
     {
       "id": "278273-2026-08-17T12:30:00.000Z-Common-CPI-y/y",
@@ -242,8 +222,7 @@
       "date": "2026-08-17T12:30:00.000Z",
       "impact": "Low",
       "forecast": "2.4%",
-      "previous": "2.6%",
-      "actual": "2.7%"
+      "previous": "2.6%"
     },
     {
       "id": "278285-2026-08-17T12:30:00.000Z-Median-CPI-y/y",
@@ -252,8 +231,7 @@
       "date": "2026-08-17T12:30:00.000Z",
       "impact": "Low",
       "forecast": "1.9%",
-      "previous": "1.9%",
-      "actual": "2.0%"
+      "previous": "1.9%"
     },
     {
       "id": "278297-2026-08-17T12:30:00.000Z-Trimmed-CPI-y/y",
@@ -262,8 +240,7 @@
       "date": "2026-08-17T12:30:00.000Z",
       "impact": "Low",
       "forecast": "1.8%",
-      "previous": "1.9%",
-      "actual": "1.9%"
+      "previous": "1.9%"
     },
     {
       "id": "312898-2026-08-17T12:30:00.000Z-NY-Fed-Empire-State-Manufacturing-Index",
@@ -272,8 +249,7 @@
       "date": "2026-08-17T12:30:00.000Z",
       "impact": "Medium",
       "forecast": "8.4",
-      "previous": "15.6",
-      "actual": "20.6"
+      "previous": "15.6"
     },
     {
       "id": "309610-2026-08-17T12:56:00.000Z-3-Month-BTF-Auction",
@@ -281,8 +257,7 @@
       "country": "EUR",
       "date": "2026-08-17T12:56:00.000Z",
       "impact": "Low",
-      "previous": "2.448%",
-      "actual": "2.484%"
+      "previous": "2.448%"
     },
     {
       "id": "309615-2026-08-17T12:56:00.000Z-6-Month-BTF-Auction",
@@ -290,8 +265,7 @@
       "country": "EUR",
       "date": "2026-08-17T12:56:00.000Z",
       "impact": "Low",
-      "previous": "2.579%",
-      "actual": "2.608%"
+      "previous": "2.579%"
     },
     {
       "id": "309620-2026-08-17T12:56:00.000Z-12-Month-BTF-Auction",
@@ -299,8 +273,7 @@
       "country": "EUR",
       "date": "2026-08-17T12:56:00.000Z",
       "impact": "Low",
-      "previous": "2.752%",
-      "actual": "2.781%"
+      "previous": "2.752%"
     },
     {
       "id": "290608-2026-08-17T14:00:00.000Z-NAHB-Housing-Market-Index",
@@ -309,8 +282,7 @@
       "date": "2026-08-17T14:00:00.000Z",
       "impact": "Low",
       "forecast": "37",
-      "previous": "34",
-      "actual": "35"
+      "previous": "34"
     },
     {
       "id": "301532-2026-08-17T15:30:00.000Z-3-Month-Bill-Auction",
@@ -318,8 +290,7 @@
       "country": "USD",
       "date": "2026-08-17T15:30:00.000Z",
       "impact": "Low",
-      "previous": "3.735%",
-      "actual": "3.715%"
+      "previous": "3.735%"
     },
     {
       "id": "301545-2026-08-17T15:30:00.000Z-6-Month-Bill-Auction",
@@ -327,8 +298,7 @@
       "country": "USD",
       "date": "2026-08-17T15:30:00.000Z",
       "impact": "Low",
-      "previous": "3.830%",
-      "actual": "3.780%"
+      "previous": "3.830%"
     },
     {
       "id": "276708-2026-08-17T20:00:00.000Z-TIC-Net-Long-Term-Transactions",
@@ -337,8 +307,7 @@
       "date": "2026-08-17T20:00:00.000Z",
       "impact": "Medium",
       "forecast": "$90.5 B",
-      "previous": "$231.2 B",
-      "actual": "$172.7 B"
+      "previous": "$231.2 B"
     },
     {
       "id": "276720-2026-08-17T20:00:00.000Z-TIC-Net-Long-Term-Transactions-incl.-Swaps",
@@ -347,8 +316,7 @@
       "date": "2026-08-17T20:00:00.000Z",
       "impact": "Low",
       "forecast": "$79.7 B",
-      "previous": "$231.2 B",
-      "actual": "$172.7 B"
+      "previous": "$231.2 B"
     },
     {
       "id": "276732-2026-08-17T20:00:00.000Z-TIC-Overall-Net-Capital-Flow",
@@ -357,8 +325,7 @@
       "date": "2026-08-17T20:00:00.000Z",
       "impact": "Low",
       "forecast": "$67.8 B",
-      "previous": "$131.5 B",
-      "actual": "$133.5 B"
+      "previous": "$131.5 B"
     },
     {
       "id": "276744-2026-08-17T20:00:00.000Z-TIC-Net-Foreign-Purchases-of-Domestic-Treasury-Bonds-&-Notes",
@@ -367,8 +334,7 @@
       "date": "2026-08-17T20:00:00.000Z",
       "impact": "Low",
       "forecast": "$29.4 B",
-      "previous": "$56.6 B",
-      "actual": "$6.8 B"
+      "previous": "$56.6 B"
     },
     {
       "id": "309668-2026-08-17T22:00:00.000Z-Trade-Balance",
@@ -454,7 +420,8 @@
       "impact": "Medium",
       "forecast": "1.365 M",
       "previous": "1.427 M",
-      "actual": "1.427 M"
+      "actual": "1.427 M",
+      "actualSource": "official"
     },
     {
       "id": "270210-2026-08-18T12:30:00.000Z-Building-Permits",
@@ -464,7 +431,8 @@
       "impact": "Medium",
       "forecast": "1.352 M",
       "previous": "1.367 M",
-      "actual": "1.367 M"
+      "actual": "1.367 M",
+      "actualSource": "official"
     },
     {
       "id": "270342-2026-08-18T12:30:00.000Z-Housing-Starts-m/m",
@@ -537,7 +505,8 @@
       "impact": "Medium",
       "forecast": "0.1%",
       "previous": "0.1%",
-      "actual": "0.1%"
+      "actual": "0.1%",
+      "actualSource": "official"
     },
     {
       "id": "280479-2026-08-18T13:15:00.000Z-Fed-Capacity-Utilization-Rate",
@@ -547,7 +516,8 @@
       "impact": "Low",
       "forecast": "76.1%",
       "previous": "76.1%",
-      "actual": "76.1%"
+      "actual": "76.1%",
+      "actualSource": "official"
     },
     {
       "id": "280503-2026-08-18T13:15:00.000Z-Fed-Manufacturing-Production-m/m",
@@ -967,7 +937,8 @@
       "impact": "High",
       "forecast": "6.913 M",
       "previous": "17.423 M",
-      "actual": "+17.422 M"
+      "actual": "+17.422 M",
+      "actualSource": "official"
     },
     {
       "id": "307860-2026-08-19T14:30:00.000Z-EIA-Cushing-Crude-Oil-Stocks-Change",
