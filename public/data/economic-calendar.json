@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1786995007759,
+  "updatedAt": 1786996391311,
   "source": "live",
   "count": 230,
   "events": [
@@ -1269,7 +1269,7 @@
       "country": "USD",
       "date": "2026-08-20T12:30:00.000Z",
       "impact": "Medium",
-      "forecast": "24.3",
+      "forecast": "24.1",
       "previous": "41.4"
     },
     {
