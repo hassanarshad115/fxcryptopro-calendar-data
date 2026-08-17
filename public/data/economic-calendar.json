@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1786974576510,
+  "updatedAt": 1786975981548,
   "source": "live",
   "count": 230,
   "events": [
@@ -309,7 +309,8 @@
       "date": "2026-08-17T14:00:00.000Z",
       "impact": "Low",
       "forecast": "37",
-      "previous": "34"
+      "previous": "34",
+      "actual": "35"
     },
     {
       "id": "301532-2026-08-17T15:30:00.000Z-3-Month-Bill-Auction",
