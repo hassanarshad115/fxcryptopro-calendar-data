@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1787040350075,
+  "updatedAt": 1787043019911,
   "source": "live",
   "count": 248,
   "events": [
@@ -360,7 +360,7 @@
       "country": "GBP",
       "date": "2026-08-18T08:30:00.000Z",
       "impact": "Medium",
-      "previous": "0.9%"
+      "previous": "-0.3%"
     },
     {
       "id": "315675-2026-08-18T08:30:00.000Z-Labour-Productivity-y/y",
@@ -368,7 +368,7 @@
       "country": "GBP",
       "date": "2026-08-18T08:30:00.000Z",
       "impact": "Medium",
-      "previous": "0.4%"
+      "previous": "-0.7%"
     },
     {
       "id": "309670-2026-08-18T09:30:00.000Z-10-Year-Treasury-Gilt-Auction",
