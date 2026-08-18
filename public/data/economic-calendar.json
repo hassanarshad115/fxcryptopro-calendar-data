@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1787054551642,
+  "updatedAt": 1787058242319,
   "source": "live",
   "count": 248,
   "events": [
@@ -401,7 +401,7 @@
       "date": "2026-08-18T12:15:00.000Z",
       "impact": "Medium",
       "forecast": "259.535 K",
-      "previous": "238.971 K"
+      "previous": "240.773 K"
     },
     {
       "id": "270198-2026-08-18T12:30:00.000Z-Housing-Starts",
@@ -410,8 +410,8 @@
       "date": "2026-08-18T12:30:00.000Z",
       "impact": "Medium",
       "forecast": "1.365 M",
-      "previous": "1.427 M",
-      "actual": "1.427 M",
+      "previous": "1.415 M",
+      "actual": "1.239 M",
       "actualSource": "official"
     },
     {
@@ -421,8 +421,8 @@
       "date": "2026-08-18T12:30:00.000Z",
       "impact": "Medium",
       "forecast": "1.352 M",
-      "previous": "1.367 M",
-      "actual": "1.367 M",
+      "previous": "1.374 M",
+      "actual": "1.443 M",
       "actualSource": "official"
     },
     {
@@ -432,7 +432,7 @@
       "date": "2026-08-18T12:30:00.000Z",
       "impact": "Medium",
       "forecast": "8.8%",
-      "previous": "19.0%"
+      "previous": "19.7%"
     },
     {
       "id": "270354-2026-08-18T12:30:00.000Z-Building-Permits-m/m",
@@ -441,7 +441,7 @@
       "date": "2026-08-18T12:30:00.000Z",
       "impact": "Low",
       "forecast": "1.3%",
-      "previous": "-3.0%"
+      "previous": "-2.6%"
     },
     {
       "id": "277562-2026-08-18T12:30:00.000Z-Import-Price-Index-m/m",
@@ -450,7 +450,7 @@
       "date": "2026-08-18T12:30:00.000Z",
       "impact": "Medium",
       "forecast": "-0.1%",
-      "previous": "0.3%"
+      "previous": "-0.3%"
     },
     {
       "id": "277574-2026-08-18T12:30:00.000Z-Import-Price-Index-y/y",
@@ -468,7 +468,7 @@
       "date": "2026-08-18T12:30:00.000Z",
       "impact": "Medium",
       "forecast": "-1.4%",
-      "previous": "-0.6%"
+      "previous": "-0.7%"
     },
     {
       "id": "277598-2026-08-18T12:30:00.000Z-Export-Price-Index-y/y",
@@ -486,7 +486,7 @@
       "date": "2026-08-18T12:30:00.000Z",
       "impact": "Low",
       "forecast": "0.5%",
-      "previous": "0.5%"
+      "previous": "0.2%"
     },
     {
       "id": "280467-2026-08-18T13:15:00.000Z-Fed-Industrial-Production-m/m",
