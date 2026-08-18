@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1787058242319,
+  "updatedAt": 1787061163198,
   "source": "live",
   "count": 248,
   "events": [
@@ -495,9 +495,7 @@
       "date": "2026-08-18T13:15:00.000Z",
       "impact": "Medium",
       "forecast": "0.1%",
-      "previous": "0.1%",
-      "actual": "0.1%",
-      "actualSource": "official"
+      "previous": "0.3%"
     },
     {
       "id": "280479-2026-08-18T13:15:00.000Z-Fed-Capacity-Utilization-Rate",
@@ -506,9 +504,7 @@
       "date": "2026-08-18T13:15:00.000Z",
       "impact": "Low",
       "forecast": "76.1%",
-      "previous": "76.1%",
-      "actual": "76.1%",
-      "actualSource": "official"
+      "previous": "76.2%"
     },
     {
       "id": "280503-2026-08-18T13:15:00.000Z-Fed-Manufacturing-Production-m/m",
@@ -517,7 +513,7 @@
       "date": "2026-08-18T13:15:00.000Z",
       "impact": "Low",
       "forecast": "0.1%",
-      "previous": "0.0%"
+      "previous": "0.3%"
     },
     {
       "id": "280515-2026-08-18T13:15:00.000Z-Fed-Industrial-Production-y/y",
