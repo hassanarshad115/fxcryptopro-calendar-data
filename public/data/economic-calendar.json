@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1787065215992,
+  "updatedAt": 1787067367413,
   "source": "live",
   "count": 248,
   "events": [
@@ -525,15 +525,6 @@
       "previous": "1.1%"
     },
     {
-      "id": "250168-2026-08-18T14:00:00.000Z-GDT-Price-Index",
-      "title": "GDT Price Index",
-      "country": "NZD",
-      "date": "2026-08-18T14:00:00.000Z",
-      "impact": "Low",
-      "forecast": "1.6%",
-      "previous": "0.1%"
-    },
-    {
       "id": "287307-2026-08-18T14:00:00.000Z-Pending-Home-Sales-m/m",
       "title": "Pending Home Sales m/m",
       "country": "USD",
@@ -558,6 +549,15 @@
       "date": "2026-08-18T14:00:00.000Z",
       "impact": "Low",
       "previous": "72.9"
+    },
+    {
+      "id": "250168-2026-08-18T15:31:00.000Z-GDT-Price-Index",
+      "title": "GDT Price Index",
+      "country": "NZD",
+      "date": "2026-08-18T15:31:00.000Z",
+      "impact": "Low",
+      "forecast": "1.6%",
+      "previous": "0.1%"
     },
     {
       "id": "309566-2026-08-18T22:45:00.000Z-PPI-Input-q/q",
