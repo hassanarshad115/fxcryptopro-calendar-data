@@ -1,7 +1,7 @@
 {
-  "updatedAt": 1787074720827,
+  "updatedAt": 1787076004422,
   "source": "live",
-  "count": 248,
+  "count": 249,
   "events": [
     {
       "id": "300315-2026-08-15T00:00:00.000Z-Assumption-of-Mary",
@@ -915,6 +915,13 @@
       "date": "2026-08-19T09:30:00.000Z",
       "impact": "Medium",
       "previous": "3.29%"
+    },
+    {
+      "id": "ff-2026-08-19T10:15:00.000Z-ECB-President-Lagarde-Speaks",
+      "title": "ECB President Lagarde Speaks",
+      "country": "EUR",
+      "date": "2026-08-19T10:15:00.000Z",
+      "impact": "Medium"
     },
     {
       "id": "315704-2026-08-19T10:30:00.000Z-Consumer-Confidence",
