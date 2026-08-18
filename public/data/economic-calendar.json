@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1787061163198,
+  "updatedAt": 1787063117913,
   "source": "live",
   "count": 248,
   "events": [
@@ -540,7 +540,7 @@
       "date": "2026-08-18T14:00:00.000Z",
       "impact": "Medium",
       "forecast": "-1.1%",
-      "previous": "-5.4%"
+      "previous": "-4.8%"
     },
     {
       "id": "287318-2026-08-18T14:00:00.000Z-Pending-Home-Sales-y/y",
@@ -557,7 +557,7 @@
       "country": "USD",
       "date": "2026-08-18T14:00:00.000Z",
       "impact": "Low",
-      "previous": "72.5"
+      "previous": "72.9"
     },
     {
       "id": "309566-2026-08-18T22:45:00.000Z-PPI-Input-q/q",
