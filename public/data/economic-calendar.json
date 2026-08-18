@@ -1,7 +1,7 @@
 {
-  "updatedAt": 1787090046613,
+  "updatedAt": 1787091282709,
   "source": "live",
-  "count": 249,
+  "count": 224,
   "events": [
     {
       "id": "300315-2026-08-15T00:00:00.000Z-Assumption-of-Mary",
@@ -621,166 +621,6 @@
       "impact": "Medium"
     },
     {
-      "id": "315613-2026-08-19T06:00:00.000Z-PPI-Input-m/m",
-      "title": "PPI Input m/m",
-      "country": "GBP",
-      "date": "2026-08-19T06:00:00.000Z",
-      "impact": "Medium",
-      "forecast": "-1.3%",
-      "previous": "-2.0%"
-    },
-    {
-      "id": "315614-2026-08-19T06:00:00.000Z-PPI-Input-y/y",
-      "title": "PPI Input y/y",
-      "country": "GBP",
-      "date": "2026-08-19T06:00:00.000Z",
-      "impact": "Low",
-      "forecast": "6.8%",
-      "previous": "7.3%"
-    },
-    {
-      "id": "315615-2026-08-19T06:00:00.000Z-PPI-Output-m/m",
-      "title": "PPI Output m/m",
-      "country": "GBP",
-      "date": "2026-08-19T06:00:00.000Z",
-      "impact": "Low",
-      "forecast": "0.7%",
-      "previous": "0.0%"
-    },
-    {
-      "id": "315616-2026-08-19T06:00:00.000Z-PPI-Output-y/y",
-      "title": "PPI Output y/y",
-      "country": "GBP",
-      "date": "2026-08-19T06:00:00.000Z",
-      "impact": "Low",
-      "forecast": "5.0%",
-      "previous": "3.5%"
-    },
-    {
-      "id": "315617-2026-08-19T06:00:00.000Z-Core-PPI-Output-m/m",
-      "title": "Core PPI Output m/m",
-      "country": "GBP",
-      "date": "2026-08-19T06:00:00.000Z",
-      "impact": "Low",
-      "forecast": "0.1%",
-      "previous": "0.5%"
-    },
-    {
-      "id": "315618-2026-08-19T06:00:00.000Z-Core-PPI-Output-y/y",
-      "title": "Core PPI Output y/y",
-      "country": "GBP",
-      "date": "2026-08-19T06:00:00.000Z",
-      "impact": "Low",
-      "forecast": "3.3%",
-      "previous": "2.6%"
-    },
-    {
-      "id": "315619-2026-08-19T06:00:00.000Z-CPI-m/m",
-      "title": "CPI m/m",
-      "country": "GBP",
-      "date": "2026-08-19T06:00:00.000Z",
-      "impact": "Medium",
-      "forecast": "0.5%",
-      "previous": "0.1%"
-    },
-    {
-      "id": "315620-2026-08-19T06:00:00.000Z-CPI-y/y",
-      "title": "CPI y/y",
-      "country": "GBP",
-      "date": "2026-08-19T06:00:00.000Z",
-      "impact": "High",
-      "forecast": "2.5%",
-      "previous": "2.6%"
-    },
-    {
-      "id": "315621-2026-08-19T06:00:00.000Z-Core-CPI-y/y",
-      "title": "Core CPI y/y",
-      "country": "GBP",
-      "date": "2026-08-19T06:00:00.000Z",
-      "impact": "Low",
-      "forecast": "2.4%",
-      "previous": "2.6%"
-    },
-    {
-      "id": "315622-2026-08-19T06:00:00.000Z-Core-RPI-m/m",
-      "title": "Core RPI m/m",
-      "country": "GBP",
-      "date": "2026-08-19T06:00:00.000Z",
-      "impact": "Low",
-      "forecast": "0.6%",
-      "previous": "0.3%"
-    },
-    {
-      "id": "315623-2026-08-19T06:00:00.000Z-Core-RPI-y/y",
-      "title": "Core RPI y/y",
-      "country": "GBP",
-      "date": "2026-08-19T06:00:00.000Z",
-      "impact": "Low",
-      "forecast": "2.6%",
-      "previous": "2.9%"
-    },
-    {
-      "id": "315624-2026-08-19T06:00:00.000Z-RPI-m/m",
-      "title": "RPI m/m",
-      "country": "GBP",
-      "date": "2026-08-19T06:00:00.000Z",
-      "impact": "Low",
-      "forecast": "0.7%",
-      "previous": "0.3%"
-    },
-    {
-      "id": "315625-2026-08-19T06:00:00.000Z-RPI-y/y",
-      "title": "RPI y/y",
-      "country": "GBP",
-      "date": "2026-08-19T06:00:00.000Z",
-      "impact": "Low",
-      "forecast": "2.8%",
-      "previous": "3.0%"
-    },
-    {
-      "id": "315663-2026-08-19T06:00:00.000Z-CPIH-y/y",
-      "title": "CPIH y/y",
-      "country": "GBP",
-      "date": "2026-08-19T06:00:00.000Z",
-      "impact": "Medium",
-      "forecast": "2.6%",
-      "previous": "2.8%"
-    },
-    {
-      "id": "315664-2026-08-19T06:00:00.000Z-CPIH-m/m",
-      "title": "CPIH m/m",
-      "country": "GBP",
-      "date": "2026-08-19T06:00:00.000Z",
-      "impact": "Medium",
-      "forecast": "0.1%",
-      "previous": "0.2%"
-    },
-    {
-      "id": "315665-2026-08-19T06:00:00.000Z-Core-CPI-m/m",
-      "title": "Core CPI m/m",
-      "country": "GBP",
-      "date": "2026-08-19T06:00:00.000Z",
-      "impact": "Low",
-      "forecast": "0.3%",
-      "previous": "0.3%"
-    },
-    {
-      "id": "315666-2026-08-19T06:00:00.000Z-CPI",
-      "title": "CPI",
-      "country": "GBP",
-      "date": "2026-08-19T06:00:00.000Z",
-      "impact": "Low",
-      "previous": "142.5"
-    },
-    {
-      "id": "315667-2026-08-19T06:00:00.000Z-CPIH",
-      "title": "CPIH",
-      "country": "GBP",
-      "date": "2026-08-19T06:00:00.000Z",
-      "impact": "Low",
-      "previous": "142.3"
-    },
-    {
       "id": "312104-2026-08-19T06:30:00.000Z-Industrial-Production-y/y",
       "title": "Industrial Production y/y",
       "country": "CHF",
@@ -819,6 +659,15 @@
       "impact": "Low",
       "forecast": "€18.0 B",
       "previous": "€-6.2 B"
+    },
+    {
+      "id": "315780-2026-08-19T08:30:00.000Z-HPI-y/y",
+      "title": "HPI y/y",
+      "country": "GBP",
+      "date": "2026-08-19T08:30:00.000Z",
+      "impact": "Low",
+      "forecast": "1.8%",
+      "previous": "2.7%"
     },
     {
       "id": "311605-2026-08-19T09:00:00.000Z-Core-CPI-m/m",
@@ -915,6 +764,13 @@
       "date": "2026-08-19T09:30:00.000Z",
       "impact": "Medium",
       "previous": "3.29%"
+    },
+    {
+      "id": "315705-2026-08-19T10:15:00.000Z-ECB-President-Lagarde-Speech",
+      "title": "ECB President Lagarde Speech",
+      "country": "EUR",
+      "date": "2026-08-19T10:15:00.000Z",
+      "impact": "High"
     },
     {
       "id": "ff-2026-08-19T10:15:00.000Z-ECB-President-Lagarde-Speaks",
@@ -1155,30 +1011,6 @@
       "impact": "Low",
       "forecast": "₣5.994 B",
       "previous": "₣5.224 B"
-    },
-    {
-      "id": "285889-2026-08-20T08:40:00.000Z-3-Year-Bonos-Auction",
-      "title": "3-Year Bonos Auction",
-      "country": "EUR",
-      "date": "2026-08-20T08:40:00.000Z",
-      "impact": "Low",
-      "previous": "2.867%"
-    },
-    {
-      "id": "285912-2026-08-20T08:40:00.000Z-5-Year-Bonos-Auction",
-      "title": "5-Year Bonos Auction",
-      "country": "EUR",
-      "date": "2026-08-20T08:40:00.000Z",
-      "impact": "Low",
-      "previous": "3.005%"
-    },
-    {
-      "id": "285935-2026-08-20T08:40:00.000Z-10-Year-Obligacion-Auction",
-      "title": "10-Year Obligacion Auction",
-      "country": "EUR",
-      "date": "2026-08-20T08:40:00.000Z",
-      "impact": "Low",
-      "previous": "3.542%"
     },
     {
       "id": "309625-2026-08-20T08:50:00.000Z-3-Year-OAT-Auction",
@@ -1468,60 +1300,6 @@
       "impact": "Low",
       "forecast": "0.7%",
       "previous": "3.1%"
-    },
-    {
-      "id": "315626-2026-08-21T06:00:00.000Z-Retail-Sales-m/m",
-      "title": "Retail Sales m/m",
-      "country": "GBP",
-      "date": "2026-08-21T06:00:00.000Z",
-      "impact": "Medium",
-      "forecast": "0.9%",
-      "previous": "1.0%"
-    },
-    {
-      "id": "315627-2026-08-21T06:00:00.000Z-Retail-Sales-y/y",
-      "title": "Retail Sales y/y",
-      "country": "GBP",
-      "date": "2026-08-21T06:00:00.000Z",
-      "impact": "Medium",
-      "forecast": "1.5%",
-      "previous": "4.2%"
-    },
-    {
-      "id": "315628-2026-08-21T06:00:00.000Z-Core-Retail-Sales-m/m",
-      "title": "Core Retail Sales m/m",
-      "country": "GBP",
-      "date": "2026-08-21T06:00:00.000Z",
-      "impact": "Medium",
-      "forecast": "1.1%",
-      "previous": "1.1%"
-    },
-    {
-      "id": "315629-2026-08-21T06:00:00.000Z-Core-Retail-Sales-y/y",
-      "title": "Core Retail Sales y/y",
-      "country": "GBP",
-      "date": "2026-08-21T06:00:00.000Z",
-      "impact": "Medium",
-      "forecast": "2.2%",
-      "previous": "5.4%"
-    },
-    {
-      "id": "315646-2026-08-21T06:00:00.000Z-Public-Sector-Net-Borrowing",
-      "title": "Public Sector Net Borrowing",
-      "country": "GBP",
-      "date": "2026-08-21T06:00:00.000Z",
-      "impact": "Low",
-      "forecast": "£4.224 B",
-      "previous": "£15.989 B"
-    },
-    {
-      "id": "315648-2026-08-21T06:00:00.000Z-Public-Sector-Net-Cash-Requirement",
-      "title": "Public Sector Net Cash Requirement",
-      "country": "GBP",
-      "date": "2026-08-21T06:00:00.000Z",
-      "impact": "Low",
-      "forecast": "£-15.673 B",
-      "previous": "£15.227 B"
     },
     {
       "id": "300594-2026-08-21T06:45:00.000Z-Business-Climate",
