@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1787050266937,
+  "updatedAt": 1787051892480,
   "source": "live",
   "count": 248,
   "events": [
@@ -377,15 +377,6 @@
       "date": "2026-08-18T09:30:00.000Z",
       "impact": "Low",
       "previous": "5.040%"
-    },
-    {
-      "id": "315599-2026-08-18T10:30:00.000Z-Consumer-Confidence",
-      "title": "Consumer Confidence",
-      "country": "EUR",
-      "date": "2026-08-18T10:30:00.000Z",
-      "impact": "Low",
-      "forecast": "77.4",
-      "previous": "81.2"
     },
     {
       "id": "311153-2026-08-18T11:30:00.000Z-Westpac-MI-Consumer-Sentiment-m/m",
@@ -928,6 +919,15 @@
       "date": "2026-08-19T09:30:00.000Z",
       "impact": "Medium",
       "previous": "3.29%"
+    },
+    {
+      "id": "315704-2026-08-19T10:30:00.000Z-Consumer-Confidence",
+      "title": "Consumer Confidence",
+      "country": "EUR",
+      "date": "2026-08-19T10:30:00.000Z",
+      "impact": "Low",
+      "forecast": "77.4",
+      "previous": "81.2"
     },
     {
       "id": "307859-2026-08-19T14:30:00.000Z-EIA-Crude-Oil-Stocks-Change",
