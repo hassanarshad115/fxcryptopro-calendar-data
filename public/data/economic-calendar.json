@@ -1,7 +1,7 @@
 {
-  "updatedAt": 1787129906562,
+  "updatedAt": 1787132010313,
   "source": "live",
-  "count": 224,
+  "count": 226,
   "events": [
     {
       "id": "300315-2026-08-15T00:00:00.000Z-Assumption-of-Mary",
@@ -1205,6 +1205,22 @@
       "impact": "Low",
       "forecast": "21 B",
       "previous": "36 B"
+    },
+    {
+      "id": "315803-2026-08-20T15:30:00.000Z-4-Week-Bill-Auction",
+      "title": "4-Week Bill Auction",
+      "country": "USD",
+      "date": "2026-08-20T15:30:00.000Z",
+      "impact": "Low",
+      "previous": "3.625%"
+    },
+    {
+      "id": "315804-2026-08-20T15:30:00.000Z-8-Week-Bill-Auction",
+      "title": "8-Week Bill Auction",
+      "country": "USD",
+      "date": "2026-08-20T15:30:00.000Z",
+      "impact": "Low",
+      "previous": "3.665%"
     },
     {
       "id": "301606-2026-08-20T17:00:00.000Z-30-Year-TIPS-Auction",
