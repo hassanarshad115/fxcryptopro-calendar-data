@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1787125760913,
+  "updatedAt": 1787127495603,
   "source": "live",
   "count": 224,
   "events": [
@@ -649,7 +649,7 @@
       "date": "2026-08-19T08:00:00.000Z",
       "impact": "Low",
       "forecast": "€21.2 B",
-      "previous": "€25.1 B"
+      "previous": "€25.8 B"
     },
     {
       "id": "278428-2026-08-19T08:00:00.000Z-Current-Account-n.s.a.",
@@ -658,7 +658,7 @@
       "date": "2026-08-19T08:00:00.000Z",
       "impact": "Low",
       "forecast": "€18.0 B",
-      "previous": "€-6.2 B"
+      "previous": "€-6.1 B"
     },
     {
       "id": "315780-2026-08-19T08:30:00.000Z-HPI-y/y",
