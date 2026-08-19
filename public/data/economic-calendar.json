@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1787182383379,
+  "updatedAt": 1787183633466,
   "source": "live",
   "count": 232,
   "events": [
@@ -898,7 +898,7 @@
       "date": "2026-08-19T23:50:00.000Z",
       "impact": "Medium",
       "forecast": "¥-361.6 B",
-      "previous": "¥-881.9 B"
+      "previous": "¥-927.1 B"
     },
     {
       "id": "284600-2026-08-19T23:50:00.000Z-Trade-Balance",
@@ -907,7 +907,7 @@
       "date": "2026-08-19T23:50:00.000Z",
       "impact": "Medium",
       "forecast": "¥287.1 B",
-      "previous": "¥-406.9 B"
+      "previous": "¥-409.9 B"
     },
     {
       "id": "284612-2026-08-19T23:50:00.000Z-Imports-y/y",
@@ -933,7 +933,7 @@
       "country": "JPY",
       "date": "2026-08-19T23:50:00.000Z",
       "impact": "Low",
-      "previous": "¥1629.4 B"
+      "previous": "¥1636.7 B"
     },
     {
       "id": "294611-2026-08-19T23:50:00.000Z-Foreign-Investment-in-Japan-Stocks",
@@ -941,7 +941,7 @@
       "country": "JPY",
       "date": "2026-08-19T23:50:00.000Z",
       "impact": "Low",
-      "previous": "¥-368.5 B"
+      "previous": "¥-368.6 B"
     },
     {
       "id": "302072-2026-08-20T01:30:00.000Z-Employment-Change",
