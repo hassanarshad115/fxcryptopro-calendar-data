@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1787127495603,
+  "updatedAt": 1787129906562,
   "source": "live",
   "count": 224,
   "events": [
@@ -667,7 +667,7 @@
       "date": "2026-08-19T08:30:00.000Z",
       "impact": "Low",
       "forecast": "1.8%",
-      "previous": "2.7%"
+      "previous": "3.0%"
     },
     {
       "id": "311605-2026-08-19T09:00:00.000Z-Core-CPI-m/m",
