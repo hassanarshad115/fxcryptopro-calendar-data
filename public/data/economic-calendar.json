@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1787136025589,
+  "updatedAt": 1787137238330,
   "source": "live",
   "count": 226,
   "events": [
@@ -780,15 +780,6 @@
       "impact": "Medium"
     },
     {
-      "id": "315704-2026-08-19T10:30:00.000Z-Consumer-Confidence",
-      "title": "Consumer Confidence",
-      "country": "EUR",
-      "date": "2026-08-19T10:30:00.000Z",
-      "impact": "Low",
-      "forecast": "77.4",
-      "previous": "81.2"
-    },
-    {
       "id": "307859-2026-08-19T14:30:00.000Z-EIA-Crude-Oil-Stocks-Change",
       "title": "EIA Crude Oil Stocks Change",
       "country": "USD",
@@ -1052,6 +1043,15 @@
       "country": "EUR",
       "date": "2026-08-20T10:00:00.000Z",
       "impact": "Low"
+    },
+    {
+      "id": "315805-2026-08-20T10:30:00.000Z-Consumer-Confidence",
+      "title": "Consumer Confidence",
+      "country": "EUR",
+      "date": "2026-08-20T10:30:00.000Z",
+      "impact": "Low",
+      "forecast": "77.4",
+      "previous": "81.2"
     },
     {
       "id": "278197-2026-08-20T12:30:00.000Z-IPPI-m/m",
