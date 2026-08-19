@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1787132010313,
+  "updatedAt": 1787133719857,
   "source": "live",
   "count": 226,
   "events": [
@@ -758,10 +758,10 @@
       "previous": "102.84"
     },
     {
-      "id": "280406-2026-08-19T09:30:00.000Z-10-Year-Bond-Auction",
+      "id": "280406-2026-08-19T09:41:00.000Z-10-Year-Bond-Auction",
       "title": "10-Year Bond Auction",
       "country": "EUR",
-      "date": "2026-08-19T09:30:00.000Z",
+      "date": "2026-08-19T09:41:00.000Z",
       "impact": "Medium",
       "previous": "3.29%"
     },
