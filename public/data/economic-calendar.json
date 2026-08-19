@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1787119488776,
+  "updatedAt": 1787122853844,
   "source": "live",
   "count": 224,
   "events": [
@@ -626,7 +626,7 @@
       "country": "CHF",
       "date": "2026-08-19T06:30:00.000Z",
       "impact": "Low",
-      "previous": "-7.1%"
+      "previous": "-7.6%"
     },
     {
       "id": "315322-2026-08-19T07:10:00.000Z-ECB-President-Lagarde-Speech",
