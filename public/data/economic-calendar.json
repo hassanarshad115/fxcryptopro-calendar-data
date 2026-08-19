@@ -1,7 +1,7 @@
 {
-  "updatedAt": 1787176347271,
+  "updatedAt": 1787177782176,
   "source": "live",
-  "count": 226,
+  "count": 232,
   "events": [
     {
       "id": "300315-2026-08-15T00:00:00.000Z-Assumption-of-Mary",
@@ -1316,6 +1316,60 @@
       "impact": "Low",
       "forecast": "0.7%",
       "previous": "3.1%"
+    },
+    {
+      "id": "315829-2026-08-21T06:00:00.000Z-Retail-Sales-m/m",
+      "title": "Retail Sales m/m",
+      "country": "GBP",
+      "date": "2026-08-21T06:00:00.000Z",
+      "impact": "Medium",
+      "forecast": "0.9%",
+      "previous": "1.0%"
+    },
+    {
+      "id": "315830-2026-08-21T06:00:00.000Z-Retail-Sales-y/y",
+      "title": "Retail Sales y/y",
+      "country": "GBP",
+      "date": "2026-08-21T06:00:00.000Z",
+      "impact": "Medium",
+      "forecast": "1.5%",
+      "previous": "4.2%"
+    },
+    {
+      "id": "315831-2026-08-21T06:00:00.000Z-Core-Retail-Sales-m/m",
+      "title": "Core Retail Sales m/m",
+      "country": "GBP",
+      "date": "2026-08-21T06:00:00.000Z",
+      "impact": "Medium",
+      "forecast": "1.1%",
+      "previous": "1.1%"
+    },
+    {
+      "id": "315832-2026-08-21T06:00:00.000Z-Core-Retail-Sales-y/y",
+      "title": "Core Retail Sales y/y",
+      "country": "GBP",
+      "date": "2026-08-21T06:00:00.000Z",
+      "impact": "Medium",
+      "forecast": "2.2%",
+      "previous": "5.4%"
+    },
+    {
+      "id": "315849-2026-08-21T06:00:00.000Z-Public-Sector-Net-Borrowing",
+      "title": "Public Sector Net Borrowing",
+      "country": "GBP",
+      "date": "2026-08-21T06:00:00.000Z",
+      "impact": "Low",
+      "forecast": "£4.224 B",
+      "previous": "£15.989 B"
+    },
+    {
+      "id": "315851-2026-08-21T06:00:00.000Z-Public-Sector-Net-Cash-Requirement",
+      "title": "Public Sector Net Cash Requirement",
+      "country": "GBP",
+      "date": "2026-08-21T06:00:00.000Z",
+      "impact": "Low",
+      "forecast": "£-15.673 B",
+      "previous": "£15.227 B"
     },
     {
       "id": "300594-2026-08-21T06:45:00.000Z-Business-Climate",
