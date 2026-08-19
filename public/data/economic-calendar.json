@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1787148385181,
+  "updatedAt": 1787150906056,
   "source": "live",
   "count": 226,
   "events": [
@@ -786,7 +786,9 @@
       "date": "2026-08-19T14:30:00.000Z",
       "impact": "High",
       "forecast": "6.913 M",
-      "previous": "17.423 M"
+      "previous": "17.423 M",
+      "actual": "+4.405 M",
+      "actualSource": "official"
     },
     {
       "id": "307860-2026-08-19T14:30:00.000Z-EIA-Cushing-Crude-Oil-Stocks-Change",
