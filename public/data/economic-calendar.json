@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1787264903184,
+  "updatedAt": 1787266552824,
   "source": "live",
   "count": 226,
   "events": [
@@ -1234,7 +1234,7 @@
       "country": "NZD",
       "date": "2026-08-20T22:45:00.000Z",
       "impact": "Low",
-      "previous": "$8.093 B"
+      "previous": "$7.832 B"
     },
     {
       "id": "309552-2026-08-20T22:45:00.000Z-Imports",
@@ -1242,7 +1242,7 @@
       "country": "NZD",
       "date": "2026-08-20T22:45:00.000Z",
       "impact": "Low",
-      "previous": "$8.070 B"
+      "previous": "$8.069 B"
     },
     {
       "id": "309553-2026-08-20T22:45:00.000Z-Trade-Balance",
@@ -1251,7 +1251,7 @@
       "date": "2026-08-20T22:45:00.000Z",
       "impact": "Low",
       "forecast": "$-0.661 B",
-      "previous": "$0.023 B"
+      "previous": "$-0.237 B"
     },
     {
       "id": "309554-2026-08-20T22:45:00.000Z-Trade-Balance-12-Months",
@@ -1260,7 +1260,7 @@
       "date": "2026-08-20T22:45:00.000Z",
       "impact": "Medium",
       "forecast": "$-2.979 B",
-      "previous": "$-3.746 B"
+      "previous": "$-4.049 B"
     },
     {
       "id": "294768-2026-08-20T23:01:00.000Z-GfK-Consumer-Confidence",
