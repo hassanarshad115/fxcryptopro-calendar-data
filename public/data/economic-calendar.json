@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1787205862222,
+  "updatedAt": 1787209314392,
   "source": "live",
   "count": 232,
   "events": [
@@ -984,7 +984,7 @@
       "country": "CHF",
       "date": "2026-08-20T06:00:00.000Z",
       "impact": "Low",
-      "previous": "₣26.616 B"
+      "previous": "₣26.588 B"
     },
     {
       "id": "273167-2026-08-20T06:00:00.000Z-Imports",
@@ -992,7 +992,7 @@
       "country": "CHF",
       "date": "2026-08-20T06:00:00.000Z",
       "impact": "Low",
-      "previous": "₣21.392 B"
+      "previous": "₣21.540 B"
     },
     {
       "id": "273179-2026-08-20T06:00:00.000Z-Trade-Balance",
