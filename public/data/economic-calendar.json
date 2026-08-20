@@ -1,7 +1,7 @@
 {
-  "updatedAt": 1787224364838,
+  "updatedAt": 1787226315855,
   "source": "live",
-  "count": 232,
+  "count": 231,
   "events": [
     {
       "id": "300315-2026-08-15T00:00:00.000Z-Assumption-of-Mary",
@@ -1043,15 +1043,6 @@
       "country": "EUR",
       "date": "2026-08-20T10:00:00.000Z",
       "impact": "Low"
-    },
-    {
-      "id": "315805-2026-08-20T10:30:00.000Z-Consumer-Confidence",
-      "title": "Consumer Confidence",
-      "country": "EUR",
-      "date": "2026-08-20T10:30:00.000Z",
-      "impact": "Low",
-      "forecast": "77.4",
-      "previous": "81.2"
     },
     {
       "id": "278197-2026-08-20T12:30:00.000Z-IPPI-m/m",
