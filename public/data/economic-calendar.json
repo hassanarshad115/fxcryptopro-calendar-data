@@ -1,7 +1,7 @@
 {
-  "updatedAt": 1787238504336,
+  "updatedAt": 1787240805724,
   "source": "live",
-  "count": 231,
+  "count": 232,
   "events": [
     {
       "id": "300315-2026-08-15T00:00:00.000Z-Assumption-of-Mary",
@@ -1196,6 +1196,13 @@
       "impact": "Low",
       "forecast": "21 B",
       "previous": "36 B"
+    },
+    {
+      "id": "ff-2026-08-20T15:10:00.000Z-FOMC-Member-Musalem-Speaks",
+      "title": "FOMC Member Musalem Speaks",
+      "country": "USD",
+      "date": "2026-08-20T15:10:00.000Z",
+      "impact": "Medium"
     },
     {
       "id": "315803-2026-08-20T15:30:00.000Z-4-Week-Bill-Auction",
