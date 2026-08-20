@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1787227435359,
+  "updatedAt": 1787231210193,
   "source": "live",
   "count": 231,
   "events": [
@@ -1069,7 +1069,7 @@
       "date": "2026-08-20T12:30:00.000Z",
       "impact": "Medium",
       "forecast": "-2.4%",
-      "previous": "-6.9%"
+      "previous": "-6.7%"
     },
     {
       "id": "278233-2026-08-20T12:30:00.000Z-RMPI-y/y",
@@ -1078,7 +1078,7 @@
       "date": "2026-08-20T12:30:00.000Z",
       "impact": "Low",
       "forecast": "12.9%",
-      "previous": "20.7%"
+      "previous": "21.0%"
     },
     {
       "id": "314852-2026-08-20T12:30:00.000Z-New-Housing-Price-Index-m/m",
@@ -1150,7 +1150,7 @@
       "date": "2026-08-20T12:30:00.000Z",
       "impact": "High",
       "forecast": "206 K",
-      "previous": "209 K"
+      "previous": "212 K"
     },
     {
       "id": "309707-2026-08-20T12:30:00.000Z-Continuing-Jobless-Claims",
@@ -1159,7 +1159,7 @@
       "date": "2026-08-20T12:30:00.000Z",
       "impact": "Medium",
       "forecast": "1.777 M",
-      "previous": "1.777 M"
+      "previous": "1.781 M"
     },
     {
       "id": "309711-2026-08-20T12:30:00.000Z-Initial-Jobless-Claims-4-Week-Average",
@@ -1168,7 +1168,7 @@
       "date": "2026-08-20T12:30:00.000Z",
       "impact": "Low",
       "forecast": "201.648 K",
-      "previous": "199.000 K"
+      "previous": "199.750 K"
     },
     {
       "id": "ff-2026-08-20T12:30:00.000Z-Philly-Fed-Manufacturing-Index",
