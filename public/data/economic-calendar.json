@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1787186700555,
+  "updatedAt": 1787191675756,
   "source": "live",
   "count": 232,
   "events": [
@@ -950,7 +950,7 @@
       "date": "2026-08-20T01:30:00.000Z",
       "impact": "Medium",
       "forecast": "31.6 K",
-      "previous": "76.3 K"
+      "previous": "80.2 K"
     },
     {
       "id": "302073-2026-08-20T01:30:00.000Z-Full-Time-Employment-Change",
@@ -958,7 +958,7 @@
       "country": "AUD",
       "date": "2026-08-20T01:30:00.000Z",
       "impact": "Medium",
-      "previous": "29.3 K"
+      "previous": "48.9 K"
     },
     {
       "id": "302074-2026-08-20T01:30:00.000Z-Participation-Rate",
