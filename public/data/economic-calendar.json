@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1787280961527,
+  "updatedAt": 1787283886547,
   "source": "live",
   "count": 226,
   "events": [
@@ -1313,7 +1313,7 @@
       "date": "2026-08-21T03:00:00.000Z",
       "impact": "Low",
       "forecast": "0.7%",
-      "previous": "3.1%"
+      "previous": "3.2%"
     },
     {
       "id": "300594-2026-08-21T06:45:00.000Z-Business-Climate",
