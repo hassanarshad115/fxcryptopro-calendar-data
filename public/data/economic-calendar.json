@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1787329755135,
+  "updatedAt": 1787331718225,
   "source": "live",
   "count": 226,
   "events": [
@@ -410,7 +410,9 @@
       "date": "2026-08-18T12:30:00.000Z",
       "impact": "Medium",
       "forecast": "1.365 M",
-      "previous": "1.415 M"
+      "previous": "1.415 M",
+      "actual": "1.239 M",
+      "actualSource": "official"
     },
     {
       "id": "270210-2026-08-18T12:30:00.000Z-Building-Permits",
@@ -419,7 +421,9 @@
       "date": "2026-08-18T12:30:00.000Z",
       "impact": "Medium",
       "forecast": "1.352 M",
-      "previous": "1.374 M"
+      "previous": "1.374 M",
+      "actual": "1.443 M",
+      "actualSource": "official"
     },
     {
       "id": "270342-2026-08-18T12:30:00.000Z-Housing-Starts-m/m",
