@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1787313496152,
+  "updatedAt": 1787316237600,
   "source": "live",
   "count": 226,
   "events": [
@@ -1438,7 +1438,7 @@
       "date": "2026-08-21T12:30:00.000Z",
       "impact": "Medium",
       "forecast": "-0.1%",
-      "previous": "1.0%"
+      "previous": "1.1%"
     },
     {
       "id": "278042-2026-08-21T12:30:00.000Z-Core-Retail-Sales-m/m",
